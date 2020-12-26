@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio regarding my webdev skills.
+Portfolio showcasing my WebDev and Design Skills.
